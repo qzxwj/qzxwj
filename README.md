@@ -2,19 +2,19 @@
 
 <div align="center">
   <h3>🔍Seeking PhD or Research Master's Opportunities</h3>
-  <p>I’m eager to join a team or mentor who shares my enthusiasm for innovation. If my profile catches your interest or you’d like to explore potential opportunities together, I’d be thrilled to hear from you at <a href="mailto:zhwang@nuist.edu.cn">zhwang@nuist.edu.cn</a>!</p>
+  <p>I’m eager to join a team or mentor who shares my enthusiasm for innovation. If my profile catches your interest or you’d like to explore potential opportunities together, I’d be thrilled to hear from you at <a href="mailto:xjxu@nuist.edu.cn">wjxu@nuist.edu.cn</a>!</p>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=flat&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Nickory?label=Stars&style=flat&logo=github&logoColor=white)
-![Contributors](https://img.shields.io/github/contributors/Nickory/CPO-python?label=Contributors&style=flat&logo=github&logoColor=white)
-![Top Language](https://img.shields.io/github/languages/top/Nickory/CPO-python?style=flat&logo=python&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=qzxwj&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/qzxwj?label=Followers&style=flat&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/qzxwj?label=Stars&style=flat&logo=github&logoColor=white)
+![Contributors](https://img.shields.io/github/contributors/qzxwj/lawapp?label=Contributors&style=flat&logo=github&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/qzxwj/lawapp?style=flat&logo=python&logoColor=white)
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nickory&theme=nord&column=7&no-frame=true&no-bg=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qzxwj&theme=nord&column=7&no-frame=true&no-bg=true" alt="trophy" />
 </div>
 
 ---
@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=8&hide_title=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=qzxwj&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxwj&theme=dark&langs_count=8&hide_title=true&layout=compact" />
 </div>
 
 ---
@@ -32,13 +32,14 @@
 
 | Institution | Focus Areas |
 |------------|-------------|
-| **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (IoT Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (IoT Major) | **🎯 Core Competencies:**<br>- 🤖 Machine Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br> |
+| **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (IoT Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (IoT Major) | **🎯 Core Competencies:**<br>- 🤖 Deep Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br> |
 ### 🏆 Achievements
-- **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a national-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
-- **National College Student Mathematical Modeling Competition, Second Prize （2023）**<br>Awarded national second prize (acceptance rate <2%).
-- **Jiangsu Province Higher Mathematics Competition, First Prize （2023）**<br>Awarded first prize (acceptance rate <5%).
+- **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a provincial-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
+- **China Robot and Artificial Intelligence Competition, National First Prize (Digital Twin), 2025**<br>Awarded the national first prize in the Digital Twin track.
+- **China Robot and Artificial Intelligence Competition, National Second Prize (Smart Inspection), 2024**<br>Awarded the national second prize in the Smart Inspection track.
+- **National College Student Mathematics Competition (Non-Mathematics Major, Group A), Preliminary First Prize, 2024**<br>Awarded the first prize in the preliminary round.
 
-🎓 Previous Education: **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
+🎓 Previous Education: **[Qingtian County High School, Zhejiang Province](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E7%9C%81%E9%9D%92%E7%94%B0%E4%B8%AD%E5%AD%A6/9897774/)**
 
 ---
 
@@ -78,8 +79,9 @@
 
 ### 🔍 Specializations
 - Mathematical Modeling
-- Traditional Machine Learning
-- Multimodal Computer Vision
+- Deep Learning
+- Computer Vision
+- Application of Remote Sensing
 - Cross-Disciplinary Fields
 
 ---
@@ -114,20 +116,21 @@
 
 🔹 Currently pursuing dual degrees in **Computer Science** at **[NUIST](https://www.nuist.edu.cn)** and **[SETU, Ireland](https://www.setu.ie)**.  
 🔹 Passionate about creating impactful, data-driven solutions in:
-  - Mathematical Modeling
-  - Traditional Machine Learning
-  - Multimodal Computer Vision
-  - Cross-Disciplinary Fields
+    - Mathematical Modeling
+    - Deep Learning
+    - Computer Vision
+    - Application of Remote Sensing
+    - Cross-Disciplinary Fields
 
 ---
 
 ## 📫 **Let's Connect!**
 
 <div align="center">
-  <a href="https://github.com/Nickory">
+  <a href="https://github.com/qzxwj">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:zhwang@nuist.edu.cn">
+  <a href="mailto:wjxu@nuist.edu.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
