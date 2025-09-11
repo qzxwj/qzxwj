@@ -32,12 +32,13 @@
 
 | Institution | Focus Areas |
 |------------|-------------|
-| **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (IoT Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (IoT Major) | **🎯 Core Competencies:**<br>- 🤖 Deep Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br> |
+| **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (Artifical Intelligence Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (Applied Computing Major) | **🎯 Core Competencies:**<br>- 🤖 Deep Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br> |
 ### 🏆 Achievements
-- **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a provincial-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
-- **China Robot and Artificial Intelligence Competition, National First Prize (Digital Twin), 2025**<br>Awarded the national first prize in the Digital Twin track.
-- **China Robot and Artificial Intelligence Competition, National Second Prize (Smart Inspection), 2024**<br>Awarded the national second prize in the Smart Inspection track.
-- **National College Student Mathematics Competition (Non-Mathematics Major, Group A), Preliminary First Prize, 2024**<br>Awarded the first prize in the preliminary round.
+- **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a provincial-level project and successfully completed the final evaluation.
+- **China Robot and Artificial Intelligence Competition, National First Prize (Digital Twin), 2025**<br>Awarded the national first prize in the Digital Twin track. (acceptance rate <2%).
+- **China Robot and Artificial Intelligence Competition, National Second Prize (Smart Inspection), 2024**<br>Awarded the national second prize in the Smart Inspection track. (acceptance rate <5%).
+- **National College Student Mathematics Competition (Non-Mathematics Major, Group A), Preliminary First Prize, 2024**<br>Awarded the first prize in the preliminary round. (acceptance rate <3%).
+- **Jiangsu Province Higher Mathematics Competition, First Prize （2024）**<br>Awarded first prize. (acceptance rate <5%).
 
 🎓 Previous Education: **[Qingtian County High School, Zhejiang Province](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E7%9C%81%E9%9D%92%E7%94%B0%E4%B8%AD%E5%AD%A6/9897774/)**
 
@@ -48,13 +49,16 @@
 <div align="center">
 
 ### 💻 Languages
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📊 Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
