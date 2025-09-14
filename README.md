@@ -95,21 +95,21 @@
 <table>
   <tr>
     <td>
-      <h3>🦔 <a href="https://github.com/Nickory/CPO-python">CPO-python</a></h3>
-      <p>A sophisticated Python implementation of the <b>Crested Porcupine Optimizer (CPO)</b>. This metaheuristic algorithm mimics the defensive behavior of the crested porcupine to solve complex optimization problems.</p>
-      <img src="https://img.shields.io/github/stars/Nickory/CPO-python?style=social" alt="Stars"/>
+      <h3>🦔 <a href="https://github.com/qzxwj/LawApp">LawApp</a></h3>
+      <p>This is a <b>legal Q&A</b> mini-program designed for the general public. It supports natural language questions and provides key insights and actionable suggestions by referencing relevant laws and legal cases, helping you quickly clarify legal issues.</p>
+      <img src="https://github.com/qzxwj/LawApp" alt="Stars"/>
     </td>
     <td>
-      <h3>📄 <a href="https://github.com/Nickory/Nuist-expriment-report-latex">Nuist-experiment-report-latex</a></h3>
-      <p>A custom LaTeX template designed for NUIST students to format experimental reports with precision and consistency.</p>
-      <img src="https://img.shields.io/github/forks/Nickory/Nuist-experiment-report-latex?style=social" alt="Forks"/>
+      <h3>📄 <a href="https://github.com/qzxwj/LeetCode">LeetCode Answers</a></h3>
+      These are solutions I implemented for a variety of **LeetCode problems**, covering topics such as **dynamic programming**, **graph algorithms**, **data structures**, and more. I found these implementations both **effective** and **worth sharing**, not only as a way to **document my progress** but also to **help others** who are tackling similar challenges. This repository reflects my continuous learning in **algorithmic thinking** and **problem-solving** with **Python**.
+      <img src="https://github.com/qzxwj/LeetCode" alt="Forks"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3>❤️ <a href="https://github.com/Nickory/AWABoost-svm">AWABoost-svm</a></h3>
-      <p>An optimized <b>AdaBoost-SVM</b> model for heart disease prediction. This repository contains a pre-trained model and an evaluation script, offering a powerful, reproducible solution for health-related data classification.</p>
-      <img src="https://img.shields.io/github/issues/Nickory/AWABoost-svm?style=social" alt="Issues"/>
+      <h3>❤️ <a href="https://github.com/qzxwj/FSCFNet">FSCFNet</a></h3>
+      <p>An efficient and lightweight detector called <b>FSCFNet</b> is designed, tailored for infrared small target detection. Specifically, three plug-and-play modules (FSConv, ACA, and MRCB) are proposed to enhance the feature representation. FSConv utilizes a multi-branch structure based on the Haar Wavelet Transform, which effectively fuses both local fine-grained textures and global frequency-aware spatial representations, while maintaining a low parameter count.
+      <img src="https://github.com/qzxwj/FSCFNet" alt="Issues"/>
     </td>
   </tr>
 </table>
