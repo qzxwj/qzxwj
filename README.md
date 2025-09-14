@@ -96,19 +96,19 @@
   <tr>
     <td>
       <h3>🦔 <a href="https://github.com/qzxwj/LawApp">LawApp</a></h3>
-      <p>This is a <b>legal Q&A</b> mini-program designed for the general public. It supports natural language questions and provides key insights and actionable suggestions by referencing relevant laws and legal cases, helping you quickly clarify legal issues.</p>
+      <p>This is a <b>legal Q&A</b> mini-program designed for the general public. It supports natural language questions and provides key insights and actionable suggestions by referencing relevant laws and legal cases.</p>
       <img src="https://img.shields.io/github/stars/qzxwj/LawApp?style=social" alt="Stars"/>
     </td>
     <td>
       <h3>📄 <a href="https://github.com/qzxwj/LeetCode">LeetCode Answers</a></h3>
-      These are solutions I implemented for a variety of LeetCode problems, covering topics such as dynamic programming, graph algorithms, data structures, etc. This repository reflects my continuous learning in algorithmic thinking and problem-solving with Python.
+      These are solutions I implemented for a variety of LeetCode problems, covering topics such as dynamic programming, graph algorithms, data structures, etc.
       <img src="https://img.shields.io/github/forks/qzxwj/LeetCode?style=social" alt="Forks"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3>❤️ <a href="https://github.com/qzxwj/FSCFNet">FSCFNet</a></h3>
-      <p>An efficient and lightweight detector called <b>FSCFNet</b> is designed, tailored for infrared small target detection. Specifically, three plug-and-play modules (FSConv, ACA, and MRCB) are proposed to enhance the feature representation. FSConv utilizes a multi-branch structure based on the Haar Wavelet Transform, which effectively fuses both local fine-grained textures and global frequency-aware spatial representations, while maintaining a low parameter count.
+      <p>An efficient and lightweight detector called <b>FSCFNet</b> is designed, tailored for infrared small target detection. Specifically, three plug-and-play modules (FSConv, ACA, and MRCB) are proposed to enhance the feature representation. FSConv utilizes a multi-branch structure based on the Haar Wavelet Transform.
       <img src="https://img.shields.io/github/issues/qzxwj/FSCFNet?style=social" alt="Issues"/>
     </td>
   </tr>
