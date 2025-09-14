@@ -38,7 +38,7 @@
 - **China Robot and Artificial Intelligence Competition, National First Prize (Digital Twin), 2025**<br>Awarded the national first prize in the Digital Twin track. (acceptance rate <2%).
 - **China Robot and Artificial Intelligence Competition, National Second Prize (Smart Inspection), 2024**<br>Awarded the national second prize in the Smart Inspection track. (acceptance rate <5%).
 - **National College Student Mathematics Competition (Non-Mathematics Major, Group A), Preliminary First Prize, 2024**<br>Awarded the first prize in the preliminary round. (acceptance rate <3%).
-- **Jiangsu Province Higher Mathematics Competition, First Prize （2024）**<br>Awarded first prize. (acceptance rate <5%).
+- **Jiangsu Province Higher Mathematics Competition, First Prize, 2024**<br>Awarded first prize. (acceptance rate <5%).
 
 🎓 Previous Education: **[Qingtian County High School, Zhejiang Province](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E7%9C%81%E9%9D%92%E7%94%B0%E4%B8%AD%E5%AD%A6/9897774/)**
 
